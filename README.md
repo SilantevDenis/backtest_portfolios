@@ -50,7 +50,7 @@ Date,Coin,Close
 2023-01-01,ETH,2000
 2023-02-01,BTC,32000
 2023-02-01,ETH,2100
-
+```
 
 ## Code Explanation
 Main Components
